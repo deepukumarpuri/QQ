@@ -50,14 +50,14 @@ settings - User Settings Panel
 
 #### Easiest Way [Deploy To Heroku] 😪
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AbirHasan2005/Watermark-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/deepukumarpuri/Watermark-Bot)
 
 #### Video Tutorial:
 [![YouTube](https://img.shields.io/badge/YouTube-Video%20Tutorial-red?logo=youtube)](https://www.youtube.com/watch?v=A7wnaKMHpvU&t)
 
 #### The Hard Way 🤕
 ```sh
-git clone https://github.com/AbirHasan2005/Watermark-Bot
+git clone https://github.com/deepukumarpuri/Watermark-Bot
 cd Watermark-Bot
 virtualenv -p python3 VENV
 . ./VENV/bin/activate
