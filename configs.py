@@ -24,7 +24,7 @@ class Config(object):
 	BROADCAST_AS_COPY = bool(os.environ.get("BROADCAST_AS_COPY", False))
 	ALLOW_UPLOAD_TO_STREAMTAPE = bool(os.environ.get("ALLOW_UPLOAD_TO_STREAMTAPE", True))
 	USAGE_WATERMARK_ADDER = """
-Hi, I am Video Watermark Adder Bot!
+Hi, I am DK BOTZ Video Watermark Adder Bot!
 
 **How to Added Watermark to a Video?**
 **Usage:** First Send a JPG Image/Logo, then send any Video. Better add watermark to a MP4 or MKV Video.
